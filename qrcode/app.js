@@ -14,4 +14,4 @@ function generateqr(){
             qrtext.classList.remove('error');
         },1000);
     }
-}
+} 
